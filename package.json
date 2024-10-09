@@ -1,0 +1,17 @@
+{
+  "name": "realtimenotificationsystem",
+  "version": "1.0.0",
+  "description": "This project is a **Real-Time Notification System** built with **Node.js**, **Express**, and **Socket.IO**. It allows users to receive notifications in real-time as they connect to the system. Additionally, there is a RESTful API endpoint that can be used to trigger notifications manually from the server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  }
+}
