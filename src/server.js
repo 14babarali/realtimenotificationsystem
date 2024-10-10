@@ -11,7 +11,7 @@ const io = new Server(server);
 // Serve static files from the "public" directory
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Serve the main HTML file at the root URL
+//   root URL
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });

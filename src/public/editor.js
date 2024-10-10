@@ -1,5 +1,6 @@
 // public/editor.js
 
+
 const socket = io();
 const editor = document.getElementById('editor');
 
