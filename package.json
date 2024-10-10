@@ -1,7 +1,7 @@
 {
   "name": "realtimenotificationsystem",
   "version": "1.0.0",
-  "description": "This project is a **Real-Time Notification System** built with **Node.js**, **Express**, and **Socket.IO**. It allows users to receive notifications in real-time as they connect to the system. Additionally, there is a RESTful API endpoint that can be used to trigger notifications manually from the server.",
+  "description": "A real-time collaborative document editing tool",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
