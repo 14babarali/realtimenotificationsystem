@@ -22,4 +22,4 @@ This project is a real-time collaborative document editing tool built with Node.
 
 
 ##DEMO :
-```[text](https://go.screenpal.com/watch/cZ66coVW32a)
+https://go.screenpal.com/watch/cZ66coVW32a
